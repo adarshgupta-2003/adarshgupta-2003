@@ -83,6 +83,9 @@
   />
 </p>
 
+## GitHub Activity Graph as there is technical issue with previous account.
+![image](https://github.com/adarshgupta-2003/adarshgupta-2003/assets/158209002/cd2fd0b6-50ad-4486-9144-6139192f18fe)
+
 
 ## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
