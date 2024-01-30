@@ -62,7 +62,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-2003&show_icons=true&locale=en&layout=compact&theme=great-gatsby&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshgupta-2003&show_icons=true&locale=en&layout=compact&theme=great-gatsby&hide_border=false"
     alt="adarsh-2003"
   />
 </p>
