@@ -18,7 +18,7 @@
 - 💬 Ask me about **Python, Java or debugging a code**
 - 📫 Reach me at **adarshguptaa.dev@gmail.com**
 - ♟️ I play **Chess** more often
-- 🗒️ Get my <a href="https://drive.google.com/file/d/1YyN9wc3nqqi18j8qLd0Ql6OOpRKSewH6/view?usp=drive_link" target="_blank">**Resume**</a>
+- 🗒️ Get my <a href="https://drive.google.com/file/d/1YvaobpFD-IEcCtXFEiQPfcFlKYySC-QD/view?usp=sharing" target="_blank">**Resume**</a>
 
 
 ## 🌐 Connect with me :
@@ -45,6 +45,14 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="adarsh.guptaaaa"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://medium.com/@adarshguptaa.dev" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="adarsh.guptaaaa"
       height="30"
       width="40"
