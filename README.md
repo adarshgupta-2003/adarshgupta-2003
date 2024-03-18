@@ -12,11 +12,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java , DSA & Node JS**
-- 🔭 I’m currently working on **Web Development & Data Science** 
+- 🌱 I’m currently learning **Python. Machine Learning, Java**
+- 🔭 I’m currently working on **Data Science & Web Development** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
 - 💬 Ask me about **Python, Java or debugging a code**
-- 📫 Reach me at **adarshguptaa.dev@gmail.com**
+- 📫 Reach me at **adarshgupta.contact@gmail.com**
 - ♟️ I play **Chess** more often
 - 🗒️ Get my <a href="https://drive.google.com/file/d/1YvaobpFD-IEcCtXFEiQPfcFlKYySC-QD/view?usp=sharing" target="_blank">**Resume**</a>
 
@@ -32,7 +32,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/adarshgupta_dev" target="blank"
+  <a href="https://twitter.com/adarshgupta_x" target="blank"
     >
     <img
       align="center"
